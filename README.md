@@ -1,4 +1,4 @@
-# box-salesforce-demo
+# Box Salesforce Examples
 
 This repository contains various Salesforce examples for you to customize as you wish. 
 

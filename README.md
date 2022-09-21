@@ -9,8 +9,8 @@ This contains the code examples from the [Getting Started with Box for Salesforc
 ## Contributors
 
 * [Kyle Adams](https://github.com/kylefernandadams), Box
-* [Alex Novotny](https://github.com/anovotny), Box
-* [Nick Read](https://github.com/anovotny), Box
+* [Alex Novotny](https://github.com/smartoneinok), Box
+* [Nick Read](https://github.com), Box
 * [Randy Johnston](https://github.com/randyjohnston), Snyk
 
 ## License

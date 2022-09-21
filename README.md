@@ -2,7 +2,7 @@
 
 This repository contains various Salesforce examples for you to customize as you wish. 
 
-## [Box Salesforce Demo 101][https://github.com/box-community/box-salesforce-demo-101](https://github.com/box-community/box-salesforce-demo/tree/main/box-salesforce-demo-101)
+## [Box Salesforce Demo 101](https://github.com/box-community/box-salesforce-demo/tree/main/box-salesforce-demo-101)
 
 This contains the code examples from the [Getting Started with Box for Salesforce Development](https://medium.com/@anovotny_12970/getting-started-with-box-for-salesforce-development-824ab538ea13) blog post. 
 

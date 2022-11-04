@@ -1,19 +1,5 @@
 public class RecordFolderHandler {
     @future(callout=true)
-    public static void createRecordFolders(Set<String> recordIds) {
-        System.debug('Expected to create or find record folders: ' + recordIds.size());
-        box.Toolkit boxToolkit = new box.Toolkit();
-        for (String recordId : recordIds) {
-            String folderId = boxToolkit.createFolderForRecordId(recordId, null, true);
-            if(folderId == null) {
-                system.debug('Couldn\'t create folder due to error' + boxToolkit.mostRecentError);
-            } else {
-                System.debug('Created or found folder with folder ID: ' + folderId);
-            }
-        }
-        boxToolkit.commitChanges(); 
-    }
-    @future(callout=true)
     public static void moveOpportunityRecordFolders(Set<String> oppRecordIds) {
         System.debug('Expected to move up to record folders: ' + oppRecordIds.size());
         box.Toolkit boxToolkit = new box.Toolkit();

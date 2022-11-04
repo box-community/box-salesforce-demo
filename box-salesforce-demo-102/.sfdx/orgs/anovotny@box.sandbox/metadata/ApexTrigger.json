@@ -1,0 +1,60 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0053t000009wUB6AAM",
+      "createdByName": "Alex Novotny",
+      "createdDate": "2022-09-20T15:13:29.000Z",
+      "fileName": "triggers/box__BoxSignAttachment.trigger",
+      "fullName": "box__BoxSignAttachment",
+      "id": "01q3t0000019icxAAA",
+      "lastModifiedById": "0053t000009wUB6AAM",
+      "lastModifiedByName": "Alex Novotny",
+      "lastModifiedDate": "2022-09-20T15:13:29.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "box",
+      "type": "ApexTrigger"
+    },
+    {
+      "createdById": "0053t000009wUB6AAM",
+      "createdByName": "Alex Novotny",
+      "createdDate": "2022-09-20T21:08:45.000Z",
+      "fileName": "triggers/FrupTrigger.trigger",
+      "fullName": "FrupTrigger",
+      "id": "01q3t000001A4TrAAK",
+      "lastModifiedById": "0053t000009wUB6AAM",
+      "lastModifiedByName": "Alex Novotny",
+      "lastModifiedDate": "2022-09-20T21:09:04.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexTrigger"
+    },
+    {
+      "createdById": "0053t000009wUB6AAM",
+      "createdByName": "Alex Novotny",
+      "createdDate": "2022-09-20T15:13:29.000Z",
+      "fileName": "triggers/box__LeadAfterTrigger.trigger",
+      "fullName": "box__LeadAfterTrigger",
+      "id": "01q3t0000019iczAAA",
+      "lastModifiedById": "0053t000009wUB6AAM",
+      "lastModifiedByName": "Alex Novotny",
+      "lastModifiedDate": "2022-09-20T15:13:29.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "box",
+      "type": "ApexTrigger"
+    },
+    {
+      "createdById": "0053t000009wUB6AAM",
+      "createdByName": "Alex Novotny",
+      "createdDate": "2022-09-20T15:13:29.000Z",
+      "fileName": "triggers/box__BoxSignContentVersion.trigger",
+      "fullName": "box__BoxSignContentVersion",
+      "id": "01q3t0000019icyAAA",
+      "lastModifiedById": "0053t000009wUB6AAM",
+      "lastModifiedByName": "Alex Novotny",
+      "lastModifiedDate": "2022-09-20T15:13:29.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "box",
+      "type": "ApexTrigger"
+    }
+  ]
+}

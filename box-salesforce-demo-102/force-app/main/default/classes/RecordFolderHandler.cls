@@ -12,6 +12,10 @@ public class RecordFolderHandler {
             }
         }
         boxToolkit.commitChanges(); 
+        
+        PageReference tempPage = ApexPages.currentPage();            
+        tempPage.setRedirect(true);
+        return tempPage;
     }
     @future(callout=true)
     public static void moveOpportunityRecordFolders(Set<String> oppRecordIds) {

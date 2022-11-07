@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "box-salesforce-demo-101",
+  "name": "box-salesforce-demo-102",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "55.0", 

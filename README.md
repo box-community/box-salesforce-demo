@@ -1,3 +1,7 @@
+<img src="images/box-dev-logo-clip.png" 
+alt= “box-dev-logo” 
+style="margin-left:-10px;"
+width=40%;>
 # Box Salesforce Examples
 
 This repository contains various Salesforce examples for you to customize as you wish. 
